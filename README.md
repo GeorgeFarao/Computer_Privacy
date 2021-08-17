@@ -1,4 +1,4 @@
-## 2021 Project 2
+## Computer Privacy CTF Project
 
 ![](logo.png)
 
